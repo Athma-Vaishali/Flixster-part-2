@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  FlixsterApp
-//
-//  Created by Hari Ganapathy on 9/10/21.
-//
-
 import UIKit
 
 @main
